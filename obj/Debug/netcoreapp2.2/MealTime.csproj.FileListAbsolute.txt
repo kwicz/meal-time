@@ -1,0 +1,11 @@
+/Users/katysolovewicz/Projects/epicodus/c#/meal-time/bin/Debug/netcoreapp2.2/MealTime.deps.json
+/Users/katysolovewicz/Projects/epicodus/c#/meal-time/bin/Debug/netcoreapp2.2/MealTime.runtimeconfig.json
+/Users/katysolovewicz/Projects/epicodus/c#/meal-time/bin/Debug/netcoreapp2.2/MealTime.runtimeconfig.dev.json
+/Users/katysolovewicz/Projects/epicodus/c#/meal-time/bin/Debug/netcoreapp2.2/MealTime.dll
+/Users/katysolovewicz/Projects/epicodus/c#/meal-time/bin/Debug/netcoreapp2.2/MealTime.pdb
+/Users/katysolovewicz/Projects/epicodus/c#/meal-time/obj/Debug/netcoreapp2.2/MealTime.csprojAssemblyReference.cache
+/Users/katysolovewicz/Projects/epicodus/c#/meal-time/obj/Debug/netcoreapp2.2/MealTime.csproj.CoreCompileInputs.cache
+/Users/katysolovewicz/Projects/epicodus/c#/meal-time/obj/Debug/netcoreapp2.2/MealTime.AssemblyInfoInputs.cache
+/Users/katysolovewicz/Projects/epicodus/c#/meal-time/obj/Debug/netcoreapp2.2/MealTime.AssemblyInfo.cs
+/Users/katysolovewicz/Projects/epicodus/c#/meal-time/obj/Debug/netcoreapp2.2/MealTime.dll
+/Users/katysolovewicz/Projects/epicodus/c#/meal-time/obj/Debug/netcoreapp2.2/MealTime.pdb
